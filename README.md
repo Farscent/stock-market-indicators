@@ -1,7 +1,5 @@
 # Stock Market Indicators with Python
 
-[![Tests](https://github.com/Farscent/stock-market-indicators/actions/workflows/tests.yml/badge.svg)](https://github.com/Farscent/stock-market-indicators/actions/workflows/tests.yml)
-
 A time-series analysis pipeline for moving averages, daily returns, volatility, drawdown, and historical BUY/SELL crossover events. Trailing windows use only the current observation and earlier prices.
 
 ## Results
